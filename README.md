@@ -1,1 +1,1 @@
-Selamlar bu depolama bot lisans işlemidir.
+Selamlar bu depolama bot lisans işlemi içindir.
